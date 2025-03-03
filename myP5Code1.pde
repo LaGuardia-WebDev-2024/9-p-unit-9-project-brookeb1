@@ -1,4 +1,4 @@
-setup = function() {
+fsetup = function() {
     size(600, 400);
 };
 
